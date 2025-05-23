@@ -27,7 +27,7 @@ Backend is deployed and accessible here:
 
 You can test the API using the Postman collection provided in this repository:
 
-- [📁 View Postman Collection Folder](./postman_collection)
+- [📁 View Postman Collection Folder](./postman collection)
 - [📄 Download Collection JSON](./postman_collection/indian-schools-api.postman_collection.json)
 
 ### 🔧 How to Use
