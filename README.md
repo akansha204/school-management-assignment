@@ -38,11 +38,3 @@ You can test the API using the Postman collection provided in this repository:
 
 > ℹ️ This collection includes sample requests and responses for all endpoints.
 ---
-
-## 🚀 Setup Instructions (Local Development)
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/indian-schools-api.git
-cd indian-schools-api
