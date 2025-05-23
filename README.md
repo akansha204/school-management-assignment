@@ -8,7 +8,7 @@ This is a Node.js-based RESTful API for managing and retrieving information abou
 
 Backend is deployed and accessible here:
 
-👉 [https://indian-schools-api.onrender.com](https://indian-schools-api.onrender.com)
+👉 [Backend deployed on render](https://school-management-assignment-ohiw.onrender.com)
 
 ---
 
@@ -18,21 +18,25 @@ Backend is deployed and accessible here:
 - Get nearby schools based on user location
 - Built with:
   - Express.js
-  - MySQL2 (with connection pooling)
+  - pg client (with connection pooling)
   - Dotenv for environment configuration
 
 ---
 
 ## 📬 Postman Collection
 
-Test the API using the public Postman collection:
+You can test the API using the Postman collection provided in this repository:
 
-👉 [Postman Collection Link](https://www.postman.com/collections/your-collection-id)
+- [📁 View Postman Collection Folder](./postman_collection)
+- [📄 Download Collection JSON](./postman_collection/indian-schools-api.postman_collection.json)
 
-This includes example requests for:
-- Adding a new school
-- Listing schools based on user location
+### 🔧 How to Use
+1. Open Postman.
+2. Click `Import` → `File`.
+3. Select the JSON file from the `postman_collection` folder.
+4. The collection will be imported and ready to test.
 
+> ℹ️ This collection includes sample requests and responses for all endpoints.
 ---
 
 ## 🚀 Setup Instructions (Local Development)
